@@ -1,8 +1,6 @@
 #include "CustomWindow.h"
 #include "resource.h"
 
-// God I hate WinAPI
-
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
 	SIZE sSize;
