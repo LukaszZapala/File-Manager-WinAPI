@@ -1,8 +1,6 @@
 ﻿#include "CustomWindow.h"
 #include "resource.h"
 
-// Więzień Drugiego Roku
-
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
 	SIZE sSize;
